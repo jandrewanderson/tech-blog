@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Difficulties with Node.js",
+    "description": "There are just so many packages to deal with when we are dealing with Node.js.",
+    "post_number": 1
+  },
+  {
+    "name": "Why async/await is better than then blocks",
+    "description": "Using async/await allows a lot more flexibility when dealing with functions especially when there are a large number of callback functions.",
+    "post_number": 1
+  },
+  {
+    "name": "I miss HTML and CSS",
+    "description": "Life was so much simpler when all I had to worry about was building HTML and CSS. Vanilla JS wasnt too bad, but Node.js is killing me.",
+    "post_number": 1
+  }
+]
