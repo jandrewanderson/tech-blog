@@ -1,11 +1,17 @@
 [
   {
-    "comment_text": "Please! I can do Node in my sleep!"
+    "comment_text": "Please! I can do Node in my sleep!",
+    "posts_id":1,
+    "user_id":2
   },
   {
-    "comment_text": "You are just to lazy to figure out then blocks and call back functions. Dont fix what aint broke..."
+    "comment_text": "You are just to lazy to figure out then blocks and call back functions. Dont fix what aint broke...",
+    "posts_id":2,
+    "user_id":2
   },
   {
-    "comment_text": "I only do backend. HTML and CSS are for wussies!"
+    "comment_text": "I only do backend. HTML and CSS are for wussies!",
+    "posts_id":2,
+    "user_id":2
   }
 ]
